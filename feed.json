@@ -32,6 +32,33 @@
           "previewImageURLs" : [
           	"Calliopeminipreview.png"
           ]
+	    },
+	    {
+          "title" : "Calliope mini blank page",
+          "overviewSubtitle" : "Become creative in using your calliope on a blank canvas.",
+          "detailSubtitle" : "Use the knowledge you learned in the Calliope mini introductory playground and invent every imaginable program.",
+          "description" : "Connect your Calliope mini via Bluetooth and start programming it by using the Swift programming language.",
+          "difficultyLevel" : "intermediate",
+          "attributes" : [
+          	"codingBasics", 
+          	"startingPoint",
+          	"usesAccessory"],
+          "contentIdentifier" : "io.github.takeanice.playground.blank",
+          "contentVersion" : "2.3",
+          "url" : "Calliope_mini_blank_page.playgroundbook.zip",
+          "publishedDate" : "2020-04-26T12:00:00+01:00",
+          "lastUpdatedDate" : "2020-04-26T12:15:55+01:00",
+          "thumbnailURL" : "CalliopeminiSwift.png",
+          "bannerImageURL" : "CalliopeminiSwift_banner.png",
+          "additionalInformation" : [
+          {
+          	"name" : "Made for",
+          	"value" : "inventors!"
+          }
+          ],
+          "previewImageURLs" : [
+          	"Calliopeminipreview.png"
+          ]
 	    }
 	]
 }
