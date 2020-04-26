@@ -2,7 +2,7 @@
 	"formatVersion": "1.2",
 	"title": "Calliope mini",
 	"publisherName": "Calliope gGmbH",
-	"feedIdentifier": "io.github.takeanice",
+	"feedIdentifier": "io.github.calliope-edu",
 	"contactURL": "https://calliope.cc/en/impressum",
 	"documents": [
 	    {
@@ -12,10 +12,10 @@
           "description" : "Connect your Calliope mini via Bluetooth and start programming it by using the Swift programming language.",
           "difficultyLevel" : "beginner",
           "attributes" : ["codingBasics, curriculumBased, usesAccessory"],
-          "authorChosenUpNext" : "io.github.takeanice.playground.blank",
-          "contentIdentifier" : "io.github.takeanice.playground.mini",
+          "authorChosenUpNext" : "io.github.calliope-edu.playground.blank",
+          "contentIdentifier" : "io.github.calliope-edu.playground.mini",
           "contentVersion" : "2.3",
-          "url" : "https://takeanice.github.io/playground/Calliope_mini.playgroundbook.zip",
+          "url" : "Calliope_mini.playgroundbook.zip",
           "publishedDate" : "2018-09-18T16:10:00+01:00",
           "lastUpdatedDate" : "2020-04-26T12:00:00+01:00",
           "thumbnailURL" : "CalliopeminiSwift.png",
@@ -27,7 +27,7 @@
           }
           ],
           "previewImageURLs" : [
-          	"https://takeanice.github.io/playground/Calliopeminipreview.png"
+          	"Calliopeminipreview.png"
           ]
 	    },
 	    {
@@ -37,9 +37,9 @@
           "description" : "Connect your Calliope mini via Bluetooth and start programming it by using the Swift programming language.",
           "difficultyLevel" : "intermediate",
           "attributes" : ["codingBasics, startingPoint, usesAccessory"],
-          "contentIdentifier" : "io.github.takeanice.playground.blank",
+          "contentIdentifier" : "io.github.calliope-edu.playground.blank",
           "contentVersion" : "2.3",
-          "url" : "https://takeanice.github.io/playground/Calliope_mini_blank_page.playgroundbook.zip",
+          "url" : "Calliope_mini_blank_page.playgroundbook.zip",
           "publishedDate" : "2020-04-26T12:00:00+01:00",
           "lastUpdatedDate" : "2020-04-26T12:00:00+01:00",
           "thumbnailURL" : "CalliopeminiSwift.png",
@@ -51,7 +51,7 @@
           }
           ],
           "previewImageURLs" : [
-          	"https://takeanice.github.io/playground/Calliopeminipreview.png"
+          	"Calliopeminipreview.png"
           ]
 	    }
 	]
