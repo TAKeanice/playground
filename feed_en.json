@@ -16,6 +16,7 @@
           	"curriculumBased", 
           	"usesAccessory"
           ],
+          "authorChosenUpNext" : "io.github.takeanice.playground.blank",
           "contentIdentifier" : "io.github.takeanice.playground.mini",
           "contentVersion" : "2.3",
           "url" : "Calliope_mini.playgroundbook.zip",
