@@ -1,0 +1,64 @@
+{
+	"formatVersion": "1.2",
+	"title": "Calliope mini",
+	"publisherName": "Calliope gGmbH",
+	"feedIdentifier": "io.github.takeanice",
+	"contactURL": "https://calliope.cc/en/impressum",
+	"documents": [
+	    {
+          "title" : "Calliope mini",
+          "overviewSubtitle" : "Calliope mini und Swift kennen lernen",
+          "detailSubtitle" : "Lerne wie du den Calliope mini mit Swift steuerst und erstelle deine eigenen interaktiven Projekte.",
+          "description" : "Verbinde deinen Calliope mini mit Bluetooth und beginne ihn mit der Programmiersprache Swift zu programmieren.",
+          "difficultyLevel" : "beginner",
+          "attributes" : [
+          	"codingBasics", 
+          	"curriculumBased", 
+          	"usesAccessory"
+          ],
+          "contentIdentifier" : "io.github.takeanice.playground.mini",
+          "contentVersion" : "2.3",
+          "url" : "Calliope_mini.playgroundbook.zip",
+          "publishedDate" : "2018-09-18T16:10:00+01:00",
+          "lastUpdatedDate" : "2020-04-26T12:00:00+01:00",
+          "thumbnailURL" : "CalliopeminiSwift.png",
+          "bannerImageURL" : "CalliopeminiSwift_banner.png",
+          "additionalInformation" : [
+          {
+          	"name" : "Made for",
+          	"value" : "inventors!"
+          }
+          ],
+          "previewImageURLs" : [
+          	"Calliopeminipreview.png"
+          ]
+	    },
+	    {
+          "title" : "Calliope mini leere Seite",
+          "overviewSubtitle" : "Nutze dieses unbeschriebene Blatt für maximale Kreative Entfaltung mit dem Calliope mini.",
+          "detailSubtitle" : "Nutze das Wissen aus dem ersten Calliope mini Playground und programmiere alles, was du dir vorstellen kannst.",
+          "description" : "Verbinde deinen Calliope mini mit Bluetooth und beginne ihn mit der Programmiersprache Swift zu programmieren.",
+          "difficultyLevel" : "intermediate",
+          "attributes" : [
+          	"codingBasics", 
+          	"startingPoint",
+          	"usesAccessory"],
+          "contentIdentifier" : "io.github.takeanice.playground.blank",
+          "contentVersion" : "2.3",
+          "url" : "Calliope_mini_blank_page.playgroundbook.zip",
+          "publishedDate" : "2020-04-26T12:00:00+01:00",
+          "lastUpdatedDate" : "2020-04-26T12:15:55+01:00",
+          "thumbnailURL" : "CalliopeminiSwift.png",
+          "bannerImageURL" : "CalliopeminiSwift_banner.png",
+          "additionalInformation" : [
+          {
+          	"name" : "Made for",
+          	"value" : "inventors!"
+          }
+          ],
+          "previewImageURLs" : [
+          	"Calliopeminipreview.png"
+          ]
+	    }
+	]
+}
