@@ -2,7 +2,7 @@
 	"formatVersion": "1.2",
 	"title": "Calliope mini",
 	"publisherName": "Calliope gGmbH",
-	"feedIdentifier": "io.github.calliope-edu",
+	"feedIdentifier": "io.github.takeanice",
 	"contactURL": "https://calliope.cc/en/impressum",
 	"documents": [
 	    {
@@ -11,9 +11,13 @@
           "detailSubtitle" : "Learn how to control the Calliope mini using Swift and build your own physical interaction projects.",
           "description" : "Connect your Calliope mini via Bluetooth and start programming it by using the Swift programming language.",
           "difficultyLevel" : "beginner",
-          "attributes" : ["codingBasics", "curriculumBased", "usesAccessory"],
-          "authorChosenUpNext" : "io.github.calliope-edu.playground.blank",
-          "contentIdentifier" : "io.github.calliope-edu.playground.mini",
+          "attributes" : [
+          	"codingBasics", 
+          	"curriculumBased", 
+          	"usesAccessory"
+          ],
+          "authorChosenUpNext" : "io.github.takeanice.playground.blank",
+          "contentIdentifier" : "io.github.takeanice.playground.mini",
           "contentVersion" : "2.3",
           "url" : "Calliope_mini.playgroundbook.zip",
           "publishedDate" : "2018-09-18T16:10:00+01:00",
@@ -36,8 +40,11 @@
           "detailSubtitle" : "Use the knowledge you learned in the Calliope mini introductory playground and invent every imaginable program.",
           "description" : "Connect your Calliope mini via Bluetooth and start programming it by using the Swift programming language.",
           "difficultyLevel" : "intermediate",
-          "attributes" : ["codingBasics", "startingPoint", "usesAccessory"],
-          "contentIdentifier" : "io.github.calliope-edu.playground.blank",
+          "attributes" : [
+          	"codingBasics", 
+          	"startingPoint",
+          	"usesAccessory"],
+          "contentIdentifier" : "io.github.takeanice.playground.blank",
           "contentVersion" : "2.3",
           "url" : "Calliope_mini_blank_page.playgroundbook.zip",
           "publishedDate" : "2020-04-26T12:00:00+01:00",
